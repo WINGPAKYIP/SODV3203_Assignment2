@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="zero_two" />
+    <string name="artwork1_title">van Gogh Self-Portrait</string>
+    <string name="artwork2_title">Caricature Self-Portrait</string>
+    <string name="artwork3_title">van Rijn Self-Portrait</string>
+    <string name="artwork1_year">Vincent van Gogh (1889)</string>
+    <string name="artwork2_year">Paul Gauguin (1888-1889)</string>
+    <string name="artwork3_year">Rembrandt van Rijn (1665-1669)</string>
+</resources>
