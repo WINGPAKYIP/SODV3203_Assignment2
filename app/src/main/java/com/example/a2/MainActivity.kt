@@ -91,7 +91,6 @@ fun A2ArtworkScreen() {
                 Text(text = "Next")
             }
         }
-
     }
 }
 
